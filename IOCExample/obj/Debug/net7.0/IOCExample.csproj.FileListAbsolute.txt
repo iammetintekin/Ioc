@@ -1,0 +1,17 @@
+C:\Users\metot\source\repos\StoreApp\IOCExample\bin\Debug\net7.0\IOCExample.exe
+C:\Users\metot\source\repos\StoreApp\IOCExample\bin\Debug\net7.0\IOCExample.deps.json
+C:\Users\metot\source\repos\StoreApp\IOCExample\bin\Debug\net7.0\IOCExample.runtimeconfig.json
+C:\Users\metot\source\repos\StoreApp\IOCExample\bin\Debug\net7.0\IOCExample.dll
+C:\Users\metot\source\repos\StoreApp\IOCExample\bin\Debug\net7.0\IOCExample.pdb
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.AssemblyInfo.cs
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.dll
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\refint\IOCExample.dll
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.pdb
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.genruntimeconfig.cache
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\ref\IOCExample.dll
+C:\Users\metot\source\repos\StoreApp\IOCExample\bin\Debug\net7.0\Ninject.dll
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.csproj.AssemblyReference.cache
+C:\Users\metot\source\repos\StoreApp\IOCExample\obj\Debug\net7.0\IOCExample.csproj.CopyComplete
